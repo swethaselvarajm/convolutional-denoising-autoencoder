@@ -9,7 +9,8 @@ An autoencoder is an unsupervised neural network that encodes input images into 
 
 ## Convolution Autoencoder Network Model
 
-![Screenshot 2024-10-18 115616](https://github.com/user-attachments/assets/ce19662c-a91f-4140-ab6a-06e5eb65c087)
+![image](https://github.com/user-attachments/assets/7e76d7d6-c294-4c8e-b56f-df270e050814)
+
 
 
 
